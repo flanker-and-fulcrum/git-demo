@@ -14,7 +14,11 @@ hello Git !!!!
 hello Git !!!!
 hello Git !!!!
 222222222
+<<<<<<< HEAD
 3333333333	master modifymaster modifymaster modify
+=======
+mmmmmmmmmm		hot-fix modifyhot-fix modifyhot-fix modify
+>>>>>>> hot-fix
 
 
 44444444444444444444444444
